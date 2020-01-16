@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<RecordType xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>Mail_Handler</fullName>
+    <active>true</active>
+    <description>Specify which Route a piece of Mail is assigned to.</description>
+    <label>Mail Handler</label>
+</RecordType>
